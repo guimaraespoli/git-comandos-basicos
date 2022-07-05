@@ -9,7 +9,7 @@ git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
 <br />
 git add - -all: envia todos os arquivos para o Stage
 <br />
-git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
+git commit -m tituloDoCommit: envia o que está no Stage para o HEAD
 <br />
 git remote add origin urlDoRepositorio: adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
 <br />
