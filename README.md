@@ -1,7 +1,7 @@
 # git-comandos-basicos
 comandos git
 
->git init: inicializa um repositório local git
+git init: inicializa um repositório local git
 <br />
 git status: verifica o estado dos seus arquivos
 <br />
