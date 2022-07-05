@@ -1,7 +1,7 @@
 # git-comandos-basicos
 comandos git
 
-(git init: inicializa um repositório local git)
+git init: inicializa um repositório local git
 git status: verifica o estado dos seus arquivos
 git add <nomeDoArquivo>: envia seu arquivo especificado para o Stage
 git add - -all: envia todos os arquivos para o Stage
